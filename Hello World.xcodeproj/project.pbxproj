@@ -54,14 +54,22 @@
 		67E57C271ED5B68000491EE3 /* Hello World */ = {
 			isa = PBXGroup;
 			children = (
-				67E57C281ED5B68000491EE3 /* AppDelegate.swift */,
 				67E57C2A1ED5B68000491EE3 /* ViewController.swift */,
 				67E57C2C1ED5B68000491EE3 /* Main.storyboard */,
+				67E57C3A1ED5B6B300491EE3 /* Supporting Files */,
+			);
+			path = "Hello World";
+			sourceTree = "<group>";
+		};
+		67E57C3A1ED5B6B300491EE3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				67E57C281ED5B68000491EE3 /* AppDelegate.swift */,
 				67E57C2F1ED5B68000491EE3 /* Assets.xcassets */,
 				67E57C311ED5B68000491EE3 /* LaunchScreen.storyboard */,
 				67E57C341ED5B68100491EE3 /* Info.plist */,
 			);
-			path = "Hello World";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
